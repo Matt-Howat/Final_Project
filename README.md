@@ -22,3 +22,7 @@ The Population of the Dominican Republic is nowhere near evenly spread. The mass
 
 The infrastructure within Mao and Laguna Salada were severely lacking. There were no major health care facilities or clinics, and the only health care facilities were small doctors offices. With the mountainous terrain, especially in Mao, the limited amount of major roadways is understandable, however the residential roads are plentiful and are built throughout the rocky areas. The urban areas or human settlements are located surrounding the large clusters of residential roads. These clusters appear to resemble communities and that would be understandable if the urban areas are located around them. 
 
+## Estimation of Urban Area Location
+
+![](
+
