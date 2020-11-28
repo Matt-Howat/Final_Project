@@ -24,5 +24,8 @@ The infrastructure within Mao and Laguna Salada were severely lacking. There wer
 
 ## Estimation of Urban Area Location
 
-![](
+![](https://github.com/Matt-Howat/Final_Project/blob/master/Rplot03.png)
+![](https://github.com/Matt-Howat/Final_Project/blob/master/Rplot.png)
+
+The previous two plots show the heat map of the population in both Mao and Laguna Salada. Using the density of the population we estimate the uraban areas within these two cities. The estimated urban areas are circled by the yellow line. These findings are supported by the covariates such as health care facilities, roads, slopes of the terrain, and terrain type. 
 
